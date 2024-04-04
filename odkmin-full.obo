@@ -1,0 +1,12 @@
+format-version: 1.2
+data-version: odkmin/releases/2024-04-04/odkmin-full.owl
+ontology: odkmin/odkmin-full
+property_value: http://purl.org/dc/terms/description "None" xsd:string
+property_value: http://purl.org/dc/terms/license https://creativecommons.org/licenses/unspecified
+property_value: http://purl.org/dc/terms/title "ODK minimum config" xsd:string
+property_value: owl:versionInfo "2024-04-04" xsd:string
+
+[Term]
+id: ODKMIN:0000000
+name: root node
+
