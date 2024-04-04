@@ -1,0 +1,8 @@
+# ODK test with minimum config (only ID is mandatory)
+
+id: odkmin
+title: "ODK minimum config"
+
+# Github config
+github_org: nahimsouza
+repo: odkmin
